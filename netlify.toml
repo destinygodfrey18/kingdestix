@@ -1,0 +1,5 @@
+[build]
+  # Serve files from the repository root where index.html lives
+  publish = "."
+
+
